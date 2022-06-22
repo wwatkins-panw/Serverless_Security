@@ -25,3 +25,5 @@ Create two environment variables
 Create Test Events
 - Create new event
 - copy events from files
+
+Check deployment from Compute->Defenders->Manage->Defenders
